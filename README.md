@@ -1,3 +1,3 @@
-# Snake-Game Using Pure Javascript
-link:
+# Snake Game Using Pure JavaScript
+#link:
 https://sabah-razaq.github.io/Snake-game/
